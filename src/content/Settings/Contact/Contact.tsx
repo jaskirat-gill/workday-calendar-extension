@@ -1,6 +1,5 @@
 import DiscordButton from "../../DiscordButton/DiscordButton"
 import "../Settings.css"
-import "./Contact.css"
 
 const Contact = () => {
   return (
